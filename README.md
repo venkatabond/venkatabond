@@ -33,10 +33,6 @@ A Data Enthusiast with a Masters Degree in Computer Science from Univeristy of T
 ## Business Intelligence & Analytics  
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=venkatabond&label=Profile%20views&color=018de4&style=flat" alt="venkatabond" />
-</p>
-
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatabond&show_icons=true&theme=dark&locale=en" alt="venkatabond" />
@@ -45,6 +41,12 @@ A Data Enthusiast with a Masters Degree in Computer Science from Univeristy of T
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatabond&theme=dark" alt="venkatabond" />
 </p>
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=venkatabond&label=Profile%20views&color=018de4&style=flat" alt="venkatabond" />
+</p>
+
 
 <!--
 **venkatabond/venkatabond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
