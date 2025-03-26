@@ -33,8 +33,7 @@ A Data Enthusiast with a Masters Degree in Computer Science from Univeristy of T
 ## Business Intelligence & Analytics  
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-<h1 align="center">Hi 👋, I'm Venkata</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatabond&label=Profile%20views&color=0e75b6&style=flat" alt="venkatabond" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatabond&label=Profile%20views&color=018de4&style=flat" alt="venkatabond" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatabond" alt="venkatabond" /></a> </p>
 
@@ -42,12 +41,11 @@ A Data Enthusiast with a Masters Degree in Computer Science from Univeristy of T
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatabond&show_icons=true&locale=en&layout=compact" alt="venkatabond" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatabond&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="venkatabond" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatabond&show_icons=true&locale=en" alt="venkatabond" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatabond&show_icons=true&theme=dark&locale=en" alt="venkatabond" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatabond&" alt="venkatabond" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatabond&theme=dark" alt="venkatabond" /></p>
 
 <!--
 **venkatabond/venkatabond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
